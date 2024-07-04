@@ -1,0 +1,1719 @@
+fileFormatVersion: 2
+guid: 58cca5a85285db241b61a5d32093b5d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 313
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d056a460175beda4782733b137abe3e0
+      internalID: 52594432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 313
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b20d6a6332e344eb2a4d628c0861a7
+      internalID: 1646499785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 313
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5414ceede1a8a1044a7fb07dff4fa3c0
+      internalID: -1207046092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 313
+        width: 93
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d731e5738881f842a66632395ef7317
+      internalID: -1129423864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_4
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 313
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472abe17e71855346afe651d5ea59aed
+      internalID: -1671516671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 294
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e850189cd349b4f84e4c3485e07ace
+      internalID: -1424451139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 294
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287428f447bc429419bcf4d1c1c1cd70
+      internalID: -563054521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 294
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c049b3bf868924a8ef31944be6e3eb
+      internalID: 1349934242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff5c582a766dfc44bf21ddfa72548b7
+      internalID: 817695405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 242
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb9df718bf9fb348988312325d899cc
+      internalID: 1150059186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 242
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0762caf5243841add221518bddc96
+      internalID: 1773799501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 242
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e56f323a1480044a9d9cc00255d87c2
+      internalID: 1250835095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 242
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbb6bdcaa8f7f946a4414eb08bc4543
+      internalID: -499014280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 242
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b084b45ca763f9b4a89cde7fc05226d4
+      internalID: 1671440179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_14
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 214
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90fe3ad59786e045905be2488e1e2c3
+      internalID: -2085609870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_15
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 214
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea1cad1b311df44eaf1ccb0bb60dc80
+      internalID: -1449695546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_16
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 214
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c8466f6f69190459bdd47fcacbfbfd
+      internalID: 1942134228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94ba223ae871cc44993999012964fd8
+      internalID: -965384141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 225
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f91b8682744c4478098be106f242ac
+      internalID: -2030677971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 166
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd39a7c5269bee40adfffad6a64417e
+      internalID: 2104713345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 166
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19977c461e2df9347bfd11570cd86309
+      internalID: -2136489665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 166
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8866b4c67d65f4ab3c9b4ea4fc4a86
+      internalID: 644334277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 166
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c57380f15ad547b1fc52e5721c748
+      internalID: 1886672912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 166
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c63c8ff2b46d746b8ffe19bda10400
+      internalID: -736941118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 166
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57eb9e3140ba1245a5ade962ece1fd2
+      internalID: 823799262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 166
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20840e4f50a6854c9681c86cae86fc8
+      internalID: -1840742995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_26
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 166
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915941b71fc3b34cb78933021ea792b
+      internalID: -2041955673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_27
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 197
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df97c5487d986754e8121753799d8167
+      internalID: 767206351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 150
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e86282efd9ec24ab94d318af7a9387
+      internalID: 1940543738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 92
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44568c253a8bd7f40994b030af0d7b89
+      internalID: 552197061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 144
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c6e38d2c13f924d8689aedb61e99cb
+      internalID: 960052206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_31
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 150
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860ec7672c606c34586e8c7f4f0eb838
+      internalID: 869751983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_32
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 92
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5319ba5d4136345b6ce4200b853fed
+      internalID: 1120510278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 144
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0364b78925bbea4f980d176793ebcdd
+      internalID: -989916991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_34
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 109
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba0886f83154a49b205bbf9fec82aa
+      internalID: 1392124304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_35
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 109
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e5868e590e7984f86743d7a734bb50
+      internalID: 1593056559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_36
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 109
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e655f8fba9067844ae7a50a03466bb7
+      internalID: 1140880539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_37
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 109
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e9a5d7f5b17d45801a4f839f9ef5f
+      internalID: 1484348810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_38
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 109
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32528f979311714aacb006508443991
+      internalID: -1385929329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_39
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 109
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ba6aa15595200458e158b5fff3cbfd
+      internalID: -200408079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_40
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 109
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b0ee91d89ece64cbd82ef3832c74c1
+      internalID: 226795712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_41
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 92
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca04c33831dce840b3ce72893df0ed4
+      internalID: 1207131771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_42
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 92
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafc5d73fa1c50d4f8b3f3a1b429b7f1
+      internalID: -684608922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_43
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 4
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6e8c2f50f8410448ad7b31680373f3
+      internalID: 934185049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_44
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 84
+        width: 59
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2697a270d05c0be499aa223167989f42
+      internalID: -127135460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_45
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 29
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73866e7cc2f7704ebbd7d9b290bcd9e
+      internalID: -668310294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_46
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 35
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d9aa0c86f57f841936cb1826f47066
+      internalID: -1190148073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_47
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 35
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6526f203c98bc489c5664f98bbacc6
+      internalID: 666882359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_48
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 29
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e436c96734bd3bd42a4383184f7f1242
+      internalID: -303766909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_49
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 29
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a4697fe65fabd41b6501782dee64f4
+      internalID: 250869913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_50
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 35
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c392e6f8228bb444dad6bea5d670a216
+      internalID: 304914002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_51
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 29
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1eb42fa390d6349bd27c89ac8d7688
+      internalID: -1724199476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_52
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 29
+        width: 100
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bcb6d7a52ebad4f915a7fe3a1e0335
+      internalID: 559840790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_53
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 35
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d98d455afe620469742c61f64d1275
+      internalID: 322162315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_54
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 35
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d074ad94428f0148a2f8e59e89ba5fd
+      internalID: -639856447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_55
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 35
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d3a1c83b822ca4fba2486d23b0fe98
+      internalID: -138829055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_56
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 35
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7aff45f8f34e8469e9e26829588114
+      internalID: 1662860337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_57
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 35
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c55280580c32f4ba38a1ff6aa934db
+      internalID: 1941344849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_58
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 3
+        width: 97
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4818b1087d47194cb3f9942733cc357
+      internalID: -322885835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79685f524a23e134786551417f6f14cf
+      internalID: -199153533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_60
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 9
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9987c26d0fb10c46ab158a1f4926523
+      internalID: -372961536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_61
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 3
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbab7b44a18a07409c46be6085b40e6
+      internalID: -427133963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_62
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 9
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b7edae0b29aa241a06fc560a0de4c8
+      internalID: 349889232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_63
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039f994e6e6538f4b940716e76af602b
+      internalID: -997865818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_64
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 9
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f326c4a570b6b4c4e8e6f45f3b80f293
+      internalID: -1966582767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_65
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 9
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b1dac52a58f2d4889bfd7d3462c7ed
+      internalID: 1297257201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_66
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 9
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee42dfd84958614987defcda79a5352
+      internalID: 48127946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_67
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 9
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452eaadd1375a34fa795f577c161305
+      internalID: 1654950354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_68
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 9
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e5f8d7902e2e74dbe70e4ac21cf97f
+      internalID: 944532471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_69
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 3
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763bfb755a72f7841ac084f8ea69fa8d
+      internalID: 1217266133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_70
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 9
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5309d838ba105b5429b5b29a1699a3a7
+      internalID: 665903137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Cat_71
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 9
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcf846f7548916428ac531ac9d98000
+      internalID: -1528067739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - The Battle Cats - Cat_0: 52594432
+      Mobile - The Battle Cats - Cat_1: 1646499785
+      Mobile - The Battle Cats - Cat_10: 1773799501
+      Mobile - The Battle Cats - Cat_11: 1250835095
+      Mobile - The Battle Cats - Cat_12: -499014280
+      Mobile - The Battle Cats - Cat_13: 1671440179
+      Mobile - The Battle Cats - Cat_14: -2085609870
+      Mobile - The Battle Cats - Cat_15: -1449695546
+      Mobile - The Battle Cats - Cat_16: 1942134228
+      Mobile - The Battle Cats - Cat_17: -965384141
+      Mobile - The Battle Cats - Cat_18: -2030677971
+      Mobile - The Battle Cats - Cat_19: 2104713345
+      Mobile - The Battle Cats - Cat_2: -1207046092
+      Mobile - The Battle Cats - Cat_20: -2136489665
+      Mobile - The Battle Cats - Cat_21: 644334277
+      Mobile - The Battle Cats - Cat_22: 1886672912
+      Mobile - The Battle Cats - Cat_23: -736941118
+      Mobile - The Battle Cats - Cat_24: 823799262
+      Mobile - The Battle Cats - Cat_25: -1840742995
+      Mobile - The Battle Cats - Cat_26: -2041955673
+      Mobile - The Battle Cats - Cat_27: 767206351
+      Mobile - The Battle Cats - Cat_28: 1940543738
+      Mobile - The Battle Cats - Cat_29: 552197061
+      Mobile - The Battle Cats - Cat_3: -1129423864
+      Mobile - The Battle Cats - Cat_30: 960052206
+      Mobile - The Battle Cats - Cat_31: 869751983
+      Mobile - The Battle Cats - Cat_32: 1120510278
+      Mobile - The Battle Cats - Cat_33: -989916991
+      Mobile - The Battle Cats - Cat_34: 1392124304
+      Mobile - The Battle Cats - Cat_35: 1593056559
+      Mobile - The Battle Cats - Cat_36: 1140880539
+      Mobile - The Battle Cats - Cat_37: 1484348810
+      Mobile - The Battle Cats - Cat_38: -1385929329
+      Mobile - The Battle Cats - Cat_39: -200408079
+      Mobile - The Battle Cats - Cat_4: -1671516671
+      Mobile - The Battle Cats - Cat_40: 226795712
+      Mobile - The Battle Cats - Cat_41: 1207131771
+      Mobile - The Battle Cats - Cat_42: -684608922
+      Mobile - The Battle Cats - Cat_43: 934185049
+      Mobile - The Battle Cats - Cat_44: -127135460
+      Mobile - The Battle Cats - Cat_45: -668310294
+      Mobile - The Battle Cats - Cat_46: -1190148073
+      Mobile - The Battle Cats - Cat_47: 666882359
+      Mobile - The Battle Cats - Cat_48: -303766909
+      Mobile - The Battle Cats - Cat_49: 250869913
+      Mobile - The Battle Cats - Cat_5: -1424451139
+      Mobile - The Battle Cats - Cat_50: 304914002
+      Mobile - The Battle Cats - Cat_51: -1724199476
+      Mobile - The Battle Cats - Cat_52: 559840790
+      Mobile - The Battle Cats - Cat_53: 322162315
+      Mobile - The Battle Cats - Cat_54: -639856447
+      Mobile - The Battle Cats - Cat_55: -138829055
+      Mobile - The Battle Cats - Cat_56: 1662860337
+      Mobile - The Battle Cats - Cat_57: 1941344849
+      Mobile - The Battle Cats - Cat_58: -322885835
+      Mobile - The Battle Cats - Cat_59: -199153533
+      Mobile - The Battle Cats - Cat_6: -563054521
+      Mobile - The Battle Cats - Cat_60: -372961536
+      Mobile - The Battle Cats - Cat_61: -427133963
+      Mobile - The Battle Cats - Cat_62: 349889232
+      Mobile - The Battle Cats - Cat_63: -997865818
+      Mobile - The Battle Cats - Cat_64: -1966582767
+      Mobile - The Battle Cats - Cat_65: 1297257201
+      Mobile - The Battle Cats - Cat_66: 48127946
+      Mobile - The Battle Cats - Cat_67: 1654950354
+      Mobile - The Battle Cats - Cat_68: 944532471
+      Mobile - The Battle Cats - Cat_69: 1217266133
+      Mobile - The Battle Cats - Cat_7: 1349934242
+      Mobile - The Battle Cats - Cat_70: 665903137
+      Mobile - The Battle Cats - Cat_71: -1528067739
+      Mobile - The Battle Cats - Cat_8: 817695405
+      Mobile - The Battle Cats - Cat_9: 1150059186
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
