@@ -5,7 +5,7 @@ using System.Collections.Generic;
 // # Unity
 using UnityEngine;
 
-public class DefualtCatMove : MonoBehaviour
+public class DefualtCharacterMove : MonoBehaviour
 {
     [Header("ÄÄÆ÷³ÍÆ®")]
     private Rigidbody2D rb;

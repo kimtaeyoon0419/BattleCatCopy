@@ -20,9 +20,13 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if (workSpeed <= 0)
+        if (workSpeed <= 0 && money <= maxMoney)
         {
             money++;
+            if(money > maxMoney)
+            {
+                money = maxMoney;
+            }
             textmoney = (int)money;
             menoyText.text = textmoney.ToString() + " / " + maxMoney.ToString();
         }
