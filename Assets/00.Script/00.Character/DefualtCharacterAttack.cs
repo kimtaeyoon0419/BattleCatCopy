@@ -5,7 +5,7 @@ using System.Collections.Generic;
 // # Unity
 using UnityEngine;
 
-public class DefualtCatAttack : MonoBehaviour
+public class DefualtCharacterAttack : MonoBehaviour
 {
     [Header("ÄÄÆ÷³ÍÆ®")]
     private Character stat;
@@ -16,6 +16,7 @@ public class DefualtCatAttack : MonoBehaviour
 
     [Header("½ºÅÈ")]
     private bool isAttack;
+    [SerializeField] private Transform attackPos;
 
     private void Awake()
     {
@@ -32,9 +33,16 @@ public class DefualtCatAttack : MonoBehaviour
         }
     }
 
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireCube(attackPos.position, new Vector2(1f, 1f));
+    }
+
     public void AttackEvent()
     {
         stat.curAttackSpeed = stat.maxAttackSpeed;
+        Physics2D.OverlapBox(attackPos.position, new Vector2(1f, 1f), 0, stat.enemyMask)?.GetComponent<Character>().TakeDamage(stat.attackPower);
         isAttack = false;
     }
 }

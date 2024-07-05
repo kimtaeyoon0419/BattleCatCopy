@@ -18,8 +18,10 @@ public class Character : MonoBehaviour
     public bool isMonster;
     public LayerMask enemyMask;
 
-    [Header("DieGhost")]
-    [SerializeField] private GameObject dieGhost;
+    private void Start()
+    {
+        curHp = maxHp;
+    }
 
     private void Update()
     {
@@ -27,16 +29,25 @@ public class Character : MonoBehaviour
         {
             curAttackSpeed -= Time.deltaTime;
         }
-
-        if(curHp <= 0)
-        {
-            Instantiate(dieGhost, transform.position, Quaternion.identity);
-        }
     }
 
     public bool CheckEnemy()
     {
         Debug.DrawRay(transform.position, Vector2.left * attackRange, Color.red);
         return Physics2D.Raycast(transform.position, Vector2.left, attackRange, enemyMask);
+    }
+
+    public void TakeDamage(float damage)
+    {
+        curHp -= damage;
+        if(curHp <= 0)
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+
     }
 }
