@@ -42,7 +42,8 @@ public class DefualtCharacterAttack : MonoBehaviour
     public void AttackEvent()
     {
         stat.curAttackSpeed = stat.maxAttackSpeed;
-        Physics2D.OverlapBox(attackPos.position, new Vector2(1f, 1f), 0, stat.enemyMask)?.GetComponent<Character>().TakeDamage(stat.attackPower);
+        Physics2D.OverlapBox(attackPos.position, new Vector2(1f, 1f), 0, stat.enemyMask)?.GetComponent<Character>()?.TakeDamage(stat.attackPower);
+        Physics2D.OverlapBox(attackPos.position, new Vector2(1f, 1f), 0, stat.enemyMask)?.GetComponent<Tower>()?.TakeDamage(stat.attackPower);
         isAttack = false;
     }
 }

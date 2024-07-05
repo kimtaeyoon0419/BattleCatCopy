@@ -27,6 +27,8 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
+        textmoney = (int)money;
+        menoyText.text = textmoney.ToString() + " / " + maxMoney.ToString();
         if (money >= maxMoney)
         {
             money = maxMoney;
@@ -35,12 +37,10 @@ public class GameManager : MonoBehaviour
 
     private void LateUpdate()
     {
-        if (curWorkSpeed <= 0 && money <= maxMoney)
+        if (curWorkSpeed <= 0 && money < maxMoney)
         {
             money++;
             curWorkSpeed = workSpeed;
-            textmoney = (int)money;
-            menoyText.text = textmoney.ToString() + " / " + maxMoney.ToString();
         }
         else
         {

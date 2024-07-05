@@ -23,4 +23,13 @@ public class Tower : MonoBehaviour
         textHp = (int)curHp;
         tmp.text = textHp.ToString() + "/" + maxHp.ToString();
     }
+
+    public void TakeDamage(float damage)
+    {
+        curHp -= damage;
+        if (curHp <= 0)
+        {
+           
+        }
+    }
 }
