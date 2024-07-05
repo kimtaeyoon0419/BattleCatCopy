@@ -15,12 +15,23 @@ public class Character : MonoBehaviour
     public float curAttackSpeed;
     public float maxHp;
     public float curHp;
-    public bool isMonster;
     public LayerMask enemyMask;
+
+    [Header("몬스터인가?")]
+    public bool isMonster;
+    public float dieGold;
+
+    [Header("죽었을 때 유령")]
+    [SerializeField] private GameObject dieGhost;
 
     private void Start()
     {
         curHp = maxHp;
+        if(isMonster)
+        {
+            speed *= -1;
+            attackRange *= -1;
+        }
     }
 
     private void Update()
@@ -48,6 +59,11 @@ public class Character : MonoBehaviour
 
     private void Die()
     {
-
+        Instantiate(dieGhost, transform.position, Quaternion.identity);
+        if (isMonster)
+        {
+            GameManager.instance.money += dieGold;
+        }
+        Destroy(gameObject);
     }
 }
