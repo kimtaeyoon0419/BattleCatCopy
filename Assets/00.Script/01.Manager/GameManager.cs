@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private float money;
     [SerializeField] private float maxMoney;
     [SerializeField] private float workSpeed;
+    [SerializeField] private float curWork;
     private int textmoney;
 
 
@@ -20,15 +21,16 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if (workSpeed <= 0)
+        if (curWork <= 0)
         {
             money++;
+            curWork = workSpeed;
             textmoney = (int)money;
             menoyText.text = textmoney.ToString() + " / " + maxMoney.ToString();
         }
         else
         {
-            workSpeed -= Time.deltaTime;
+            curWork -= Time.deltaTime;
         }
     }
 }

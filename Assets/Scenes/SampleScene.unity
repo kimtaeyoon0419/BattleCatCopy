@@ -253,7 +253,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   money: 0
   maxMoney: 10000
-  workSpeed: 0.5
+  workSpeed: 0
+  curWork: 0
   menoyText: {fileID: 1704429498}
 --- !u!1 &795230827
 GameObject:
@@ -905,6 +906,7 @@ MonoBehaviour:
   enemyMask:
     serializedVersion: 2
     m_Bits: 64
+  dieGhost: {fileID: 0}
 --- !u!114 &1533901908
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -962,7 +964,7 @@ GameObject:
   - component: {fileID: 1679925705}
   - component: {fileID: 1679925706}
   m_Layer: 6
-  m_Name: Mobile - The Battle Cats - Doge (1)_2
+  m_Name: Dog
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

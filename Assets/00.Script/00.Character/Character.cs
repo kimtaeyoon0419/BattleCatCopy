@@ -18,11 +18,19 @@ public class Character : MonoBehaviour
     public bool isMonster;
     public LayerMask enemyMask;
 
+    [Header("DieGhost")]
+    [SerializeField] private GameObject dieGhost;
+
     private void Update()
     {
         if(curAttackSpeed > 0)
         {
             curAttackSpeed -= Time.deltaTime;
+        }
+
+        if(curHp <= 0)
+        {
+            Instantiate(dieGhost, transform.position, Quaternion.identity);
         }
     }
 
