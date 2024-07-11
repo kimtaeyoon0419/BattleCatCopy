@@ -13,6 +13,16 @@ public class Tower : MonoBehaviour
     [Header("텍스트")]
     [SerializeField] private TextMeshProUGUI tmp;
 
+    private Animator aniamtor;
+
+    [Header("완전 승리")]
+    [SerializeField] private GameObject winText;
+
+    private void Awake()
+    {
+        aniamtor = GetComponent<Animator>();
+    }
+
     private void Start()
     {
         curHp = maxHp;
@@ -26,10 +36,13 @@ public class Tower : MonoBehaviour
 
     public void TakeDamage(float damage)
     {
+        
         curHp -= damage;
+        aniamtor.SetTrigger("Damage");
         if (curHp <= 0)
         {
-           
+            curHp = 0;
+            winText.SetActive(true);
         }
     }
 }
